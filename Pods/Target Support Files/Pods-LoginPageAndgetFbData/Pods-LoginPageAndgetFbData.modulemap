@@ -1,0 +1,6 @@
+framework module Pods_LoginPageAndgetFbData {
+  umbrella header "Pods-LoginPageAndgetFbData-umbrella.h"
+
+  export *
+  module * { export * }
+}
